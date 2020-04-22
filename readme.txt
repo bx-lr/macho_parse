@@ -1,0 +1,1 @@
+simple script to parse iphone apps and get some imports
